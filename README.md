@@ -8,4 +8,4 @@ Which is easier said than done when you can only see a small part of the world a
 Simply run sabrewulf-all.jar
 
 ## Online play
-Simply port forwarding or using [Hamachi](https://www.vpn.net/) 
+Curfew runs on LAN but by port forwarding or using [Hamachi](https://www.vpn.net/), you can play with your friends from anywhere 
