@@ -6,3 +6,6 @@ Which is easier said than done when you can only see a small part of the world a
 
 ## Running The Game
 Simply run sabrewulf-all.jar
+
+## Online play
+Simply port forwarding or using [Hamachi](https://www.vpn.net/) 
