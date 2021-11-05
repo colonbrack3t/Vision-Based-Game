@@ -6,8 +6,3 @@ Which is easier said than done when you can only see a small part of the world a
 
 ## Running The Game
 Simply run sabrewulf-all.jar
-
-## Other Info
-Merged branches are deleted and stored in our backup repository 
-https://github.com/smelm/sabrewulf-backup
-
