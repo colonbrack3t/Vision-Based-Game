@@ -9,3 +9,5 @@ Simply run sabrewulf-all.jar
 
 ## Online play
 Curfew runs on LAN but by port forwarding or using [Hamachi](https://www.vpn.net/), you can play with your friends from anywhere 
+
+## [Video Demo](https://drive.google.com/file/d/1FiZrlzh0v_adhjOEYeRhMO0yNDY4swMe/view?usp=sharing)
